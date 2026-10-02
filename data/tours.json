@@ -1,0 +1,560 @@
+[
+  {
+    "slug": "maasai-mara-signature-safari",
+    "name": "Maasai Mara Signature Safari",
+    "destination": "Maasai Mara",
+    "country": "Kenya",
+    "category": "Budget & Group Safari",
+    "durationDays": 5,
+    "durationNights": 4,
+    "image": "/images/maasai-mara.jpg",
+    "imageAlt": "Safari travellers watching elephants in the Maasai Mara",
+    "summary": "Big-cat country, golden plains and unhurried game drives with trusted local guides.",
+    "highlights": [
+      "Sunrise and sunset game drives",
+      "Small-group 4×4 safari",
+      "Full-board tented camp"
+    ],
+    "priceFrom": 45000,
+    "rating": 4.9,
+    "reviews": 184,
+    "featured": true,
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Nairobi to the Mara",
+        "description": "Meet your Tembo host in Nairobi and drive through the Great Rift Valley to the Maasai Mara. Settle into camp before an introductory evening game drive."
+      },
+      {
+        "day": 2,
+        "title": "Big cats and open plains",
+        "description": "Spend a full day following the Mara's wildlife rhythms with picnic lunch in the reserve and time at key river crossings."
+      },
+      {
+        "day": 3,
+        "title": "Conservation and community",
+        "description": "Begin with a sunrise drive, then visit a community-led conservancy project before a relaxed evening around camp."
+      },
+      {
+        "day": 4,
+        "title": "Your Mara, your pace",
+        "description": "Choose a full-day drive or split morning and evening drives. An optional balloon safari can be arranged in advance."
+      },
+      {
+        "day": 5,
+        "title": "Return to Nairobi",
+        "description": "Enjoy a final bush breakfast, check out and return to Nairobi with a scenic lunch stop en route."
+      }
+    ],
+    "inclusions": [
+      "Return transport from Nairobi",
+      "Four nights' accommodation",
+      "All meals on safari",
+      "Park and conservancy fees",
+      "Professional English-speaking guide",
+      "Bottled drinking water"
+    ],
+    "exclusions": [
+      "International flights",
+      "Travel insurance",
+      "Balloon safari",
+      "Tips and personal expenses",
+      "Premium drinks"
+    ],
+    "prices": [
+      {
+        "label": "Solo traveller",
+        "people": "1 person",
+        "price": 78000,
+        "note": "Single room included"
+      },
+      {
+        "label": "Couple",
+        "people": "2 people",
+        "price": 125000,
+        "note": "Per couple"
+      },
+      {
+        "label": "Group",
+        "people": "4–7 people",
+        "price": 45000,
+        "note": "Per person"
+      }
+    ]
+  },
+  {
+    "slug": "amboseli-elephant-trails",
+    "name": "Amboseli Elephant Trails",
+    "destination": "Amboseli",
+    "country": "Kenya",
+    "category": "Family Safari",
+    "durationDays": 4,
+    "durationNights": 3,
+    "image": "/images/amboseli-elephants.jpg",
+    "imageAlt": "A herd of African elephants crossing open Kenyan savannah",
+    "summary": "Meet Amboseli's elephant families beneath wide skies and Kilimanjaro views.",
+    "highlights": [
+      "Elephant herd encounters",
+      "Kilimanjaro viewpoints",
+      "Family-friendly lodge"
+    ],
+    "priceFrom": 39000,
+    "rating": 4.8,
+    "reviews": 132,
+    "featured": true,
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Nairobi to Amboseli",
+        "description": "Depart Nairobi after breakfast for Amboseli. Arrive for lunch and take your first afternoon game drive across the wetlands."
+      },
+      {
+        "day": 2,
+        "title": "Elephant country",
+        "description": "Explore the park from sunrise, looking for its celebrated elephant families, lion, cheetah and abundant birdlife."
+      },
+      {
+        "day": 3,
+        "title": "Kilimanjaro morning",
+        "description": "Photograph Kilimanjaro in the cool morning light, visit Observation Hill and enjoy a slow afternoon at the lodge."
+      },
+      {
+        "day": 4,
+        "title": "Bush breakfast and home",
+        "description": "Take a short final drive and bush breakfast before returning to Nairobi in the afternoon."
+      }
+    ],
+    "inclusions": [
+      "Return transport from Nairobi",
+      "Three nights' accommodation",
+      "Full-board meals",
+      "Amboseli park fees",
+      "Professional safari guide",
+      "Bottled drinking water"
+    ],
+    "exclusions": [
+      "Flights",
+      "Travel insurance",
+      "Tips",
+      "Personal purchases",
+      "Optional cultural visit"
+    ],
+    "prices": [
+      {
+        "label": "Solo traveller",
+        "people": "1 person",
+        "price": 65000
+      },
+      {
+        "label": "Couple",
+        "people": "2 people",
+        "price": 99000,
+        "note": "Per couple"
+      },
+      {
+        "label": "Family / group",
+        "people": "4–7 people",
+        "price": 39000,
+        "note": "Per person"
+      }
+    ]
+  },
+  {
+    "slug": "zanzibar-spice-and-sea",
+    "name": "Zanzibar Spice & Sea",
+    "destination": "Zanzibar",
+    "country": "Tanzania",
+    "category": "Beach Holiday",
+    "durationDays": 6,
+    "durationNights": 5,
+    "image": "/images/zanzibar-traveller.jpg",
+    "imageAlt": "A traveller walking along a white sand Zanzibar beach",
+    "summary": "Stone Town stories, spice-farm aromas and barefoot days beside the Indian Ocean.",
+    "highlights": [
+      "Guided Stone Town walk",
+      "Spice farm experience",
+      "Three beach days"
+    ],
+    "priceFrom": 72000,
+    "rating": 4.9,
+    "reviews": 216,
+    "featured": true,
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Karibu Zanzibar",
+        "description": "Airport or ferry pickup and private transfer to Stone Town. Meet your local host over a rooftop welcome dinner."
+      },
+      {
+        "day": 2,
+        "title": "Stone Town and spices",
+        "description": "Walk the lanes of Stone Town with a resident guide, then explore a working spice farm and taste island produce."
+      },
+      {
+        "day": 3,
+        "title": "To the beach",
+        "description": "Transfer to the coast with a relaxed afternoon for swimming and sunset dhow views."
+      },
+      {
+        "day": 4,
+        "title": "Ocean day",
+        "description": "Enjoy a guided snorkelling excursion with a fresh Swahili lunch, subject to sea conditions."
+      },
+      {
+        "day": 5,
+        "title": "A day of your own",
+        "description": "Choose complete beach time or add an optional Jozani Forest, village, or sailing experience."
+      },
+      {
+        "day": 6,
+        "title": "Island farewell",
+        "description": "Breakfast at leisure followed by your private transfer to the airport or ferry terminal."
+      }
+    ],
+    "inclusions": [
+      "Five nights' accommodation",
+      "Daily breakfast",
+      "Two hosted lunches and welcome dinner",
+      "Airport or ferry transfers",
+      "Stone Town and spice tour",
+      "Snorkelling excursion"
+    ],
+    "exclusions": [
+      "Flights or ferry tickets",
+      "Travel insurance",
+      "Most lunches and dinners",
+      "Marine conservation fees where applicable",
+      "Personal expenses"
+    ],
+    "prices": [
+      {
+        "label": "Solo traveller",
+        "people": "1 person",
+        "price": 108000
+      },
+      {
+        "label": "Couple",
+        "people": "2 people",
+        "price": 168000,
+        "note": "Per couple"
+      },
+      {
+        "label": "Group",
+        "people": "4–10 people",
+        "price": 72000,
+        "note": "Per person"
+      }
+    ]
+  },
+  {
+    "slug": "uganda-gorilla-encounter",
+    "name": "Uganda Gorilla Encounter",
+    "destination": "Bwindi",
+    "country": "Uganda",
+    "category": "Primate Safari",
+    "durationDays": 4,
+    "durationNights": 3,
+    "image": "/images/uganda-gorilla.jpg",
+    "imageAlt": "Mountain gorilla resting in dense green forest vegetation",
+    "summary": "A carefully paced journey into Bwindi for one unforgettable hour with mountain gorillas.",
+    "highlights": [
+      "Gorilla trekking permit",
+      "Bwindi forest lodge",
+      "Expert trekking team"
+    ],
+    "priceFrom": 168000,
+    "rating": 5,
+    "reviews": 78,
+    "featured": true,
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Arrive in Entebbe",
+        "description": "Meet your Tembo representative, settle into your hotel and receive a full trek briefing."
+      },
+      {
+        "day": 2,
+        "title": "Journey to Bwindi",
+        "description": "Fly or drive southwest through Uganda's highlands to your forest lodge near Bwindi."
+      },
+      {
+        "day": 3,
+        "title": "Gorilla trekking day",
+        "description": "Join Uganda Wildlife Authority rangers for your gorilla trek. Spend up to one hour with a habituated family before returning to the lodge."
+      },
+      {
+        "day": 4,
+        "title": "Return to Entebbe",
+        "description": "Enjoy breakfast overlooking the forest and transfer back to Entebbe for onward travel."
+      }
+    ],
+    "inclusions": [
+      "Gorilla trekking permit",
+      "Three nights' accommodation",
+      "Meals during the Bwindi stay",
+      "All ground transfers",
+      "Local guide and ranger fees",
+      "Drinking water"
+    ],
+    "exclusions": [
+      "International flights",
+      "Domestic flight upgrade",
+      "Travel insurance",
+      "Porter gratuity",
+      "Visa fees",
+      "Personal equipment"
+    ],
+    "prices": [
+      {
+        "label": "Solo traveller",
+        "people": "1 person",
+        "price": 245000
+      },
+      {
+        "label": "Couple",
+        "people": "2 people",
+        "price": 398000,
+        "note": "Per couple"
+      },
+      {
+        "label": "Group",
+        "people": "4–6 people",
+        "price": 168000,
+        "note": "Per person"
+      }
+    ]
+  },
+  {
+    "slug": "serengeti-sky-and-savanna",
+    "name": "Serengeti Sky & Savanna",
+    "destination": "Serengeti",
+    "country": "Tanzania",
+    "category": "Luxury Honeymoon Safari",
+    "durationDays": 7,
+    "durationNights": 6,
+    "image": "/images/balloons-sunrise.jpg",
+    "imageAlt": "Hot-air balloons floating over East African savannah at sunrise",
+    "summary": "A fly-in safari pairing private game drives with a sunrise balloon flight over the Serengeti.",
+    "highlights": [
+      "Sunrise balloon safari",
+      "Fly-in bush transfers",
+      "Luxury tented camps"
+    ],
+    "priceFrom": 189000,
+    "rating": 4.9,
+    "reviews": 94,
+    "featured": true,
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Arusha welcome",
+        "description": "Private airport welcome and overnight in Arusha with a personal safari briefing."
+      },
+      {
+        "day": 2,
+        "title": "Fly into the Serengeti",
+        "description": "Take a scenic bush flight to the Serengeti and begin your private game drive on arrival."
+      },
+      {
+        "day": 3,
+        "title": "Following the herds",
+        "description": "A flexible full-day game drive shaped around seasonal wildlife movement and your interests."
+      },
+      {
+        "day": 4,
+        "title": "Balloon morning",
+        "description": "Float over the plains at sunrise, land for a bush breakfast and return to camp for a restful afternoon."
+      },
+      {
+        "day": 5,
+        "title": "Private safari day",
+        "description": "Explore quieter areas with your guide, stopping for a picnic in the wilderness."
+      },
+      {
+        "day": 6,
+        "title": "Slow safari",
+        "description": "Choose another drive or enjoy the camp, guided nature interpretation and a special farewell dinner."
+      },
+      {
+        "day": 7,
+        "title": "Bush flight to Arusha",
+        "description": "Transfer to the airstrip for your return flight and onward airport connection."
+      }
+    ],
+    "inclusions": [
+      "Two scheduled bush flights",
+      "Six nights' premium accommodation",
+      "Full-board meals on safari",
+      "Private safari vehicle and guide",
+      "Balloon flight",
+      "All park fees"
+    ],
+    "exclusions": [
+      "International flights",
+      "Tanzania visa",
+      "Travel insurance",
+      "Premium beverages",
+      "Tips and personal expenses"
+    ],
+    "prices": [
+      {
+        "label": "Solo traveller",
+        "people": "1 person",
+        "price": 295000
+      },
+      {
+        "label": "Couple",
+        "people": "2 people",
+        "price": 498000,
+        "note": "Per couple"
+      },
+      {
+        "label": "Private group",
+        "people": "4–6 people",
+        "price": 189000,
+        "note": "Per person"
+      }
+    ]
+  },
+  {
+    "slug": "diani-family-escape",
+    "name": "Diani Family Escape",
+    "destination": "Diani Beach",
+    "country": "Kenya",
+    "category": "Family Beach Holiday",
+    "durationDays": 5,
+    "durationNights": 4,
+    "image": "/images/kenya-coast.jpg",
+    "imageAlt": "Aerial view of Kenya's white sand coast and ocean",
+    "summary": "An easy coastal escape with flexible family time, Swahili flavours and a marine adventure.",
+    "highlights": [
+      "Family beach resort",
+      "Marine safari day",
+      "SGR or flight options"
+    ],
+    "priceFrom": 58000,
+    "rating": 4.8,
+    "reviews": 147,
+    "featured": true,
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Nairobi to the coast",
+        "description": "Travel by SGR or flight and meet your private transfer to Diani Beach. Settle in with a relaxed evening."
+      },
+      {
+        "day": 2,
+        "title": "Beach at your pace",
+        "description": "A free family day for the pool, white sand and optional water sports."
+      },
+      {
+        "day": 3,
+        "title": "Marine safari",
+        "description": "Join a guided ocean excursion with snorkelling, marine-life interpretation and a coastal lunch."
+      },
+      {
+        "day": 4,
+        "title": "Swahili coast stories",
+        "description": "Choose a local cultural experience or keep the day completely unplanned."
+      },
+      {
+        "day": 5,
+        "title": "Homeward",
+        "description": "Enjoy breakfast and a final swim before your transfer for the return to Nairobi."
+      }
+    ],
+    "inclusions": [
+      "Four nights' family accommodation",
+      "Daily breakfast and dinner",
+      "Return local transfers",
+      "Marine safari excursion",
+      "Tembo trip support"
+    ],
+    "exclusions": [
+      "SGR or flight tickets",
+      "Travel insurance",
+      "Lunches except excursion day",
+      "Optional activities",
+      "Personal expenses"
+    ],
+    "prices": [
+      {
+        "label": "Solo traveller",
+        "people": "1 person",
+        "price": 79000
+      },
+      {
+        "label": "Couple",
+        "people": "2 people",
+        "price": 124000,
+        "note": "Per couple"
+      },
+      {
+        "label": "Family / group",
+        "people": "4–8 people",
+        "price": 58000,
+        "note": "Per person"
+      }
+    ]
+  },
+  {
+    "slug": "nairobi-wildlife-day",
+    "name": "Nairobi Wildlife Day",
+    "destination": "Nairobi",
+    "country": "Kenya",
+    "category": "Day Trip",
+    "durationDays": 1,
+    "durationNights": 0,
+    "image": "/images/safari-sunset.jpg",
+    "imageAlt": "Safari vehicle among acacia trees in warm morning light",
+    "summary": "A full day pairing Nairobi National Park wildlife with conservation stories close to the city.",
+    "highlights": [
+      "Early national park drive",
+      "Giraffe Centre visit",
+      "Private Nairobi transfers"
+    ],
+    "priceFrom": 18500,
+    "rating": 4.8,
+    "reviews": 89,
+    "featured": false,
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Nairobi's wild side",
+        "description": "Begin with an early pickup and game drive in Nairobi National Park. Break for lunch, continue to the Giraffe Centre, and return to your Nairobi hotel by early evening."
+      }
+    ],
+    "inclusions": [
+      "Private Nairobi transfers",
+      "Professional local guide",
+      "Nairobi National Park entry",
+      "Giraffe Centre entry",
+      "Bottled drinking water"
+    ],
+    "exclusions": [
+      "Lunch and drinks",
+      "Travel insurance",
+      "Tips",
+      "Personal purchases"
+    ],
+    "prices": [
+      {
+        "label": "Solo traveller",
+        "people": "1 person",
+        "price": 32000
+      },
+      {
+        "label": "Couple",
+        "people": "2 people",
+        "price": 44000,
+        "note": "Per couple"
+      },
+      {
+        "label": "Group",
+        "people": "4–7 people",
+        "price": 18500,
+        "note": "Per person"
+      }
+    ]
+  }
+]
